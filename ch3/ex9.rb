@@ -1,0 +1,4 @@
+# 1. Ruby allows objects of the same type to be added. This includes converting objects from one type to another.
+# 2. The answers will change because of order of operations.
+# 3. 5/2 would normally equal 1.5, but because it's two integers being divided the answer will return an integer, the number is truncated then when multipled by a float the truncated number becomes a float (2.0).
+# 6. The answer is wrong because the system is taking the best guess on how the user wants the numbers evaluated. It adds the first three numbers, then the last two are divided by one another then added to the total of the first 3 (giving 8.625). To get the correct answer the 4 temperatures should be placed in parathesis then divided by 4.
